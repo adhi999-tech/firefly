@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i am Aditya from boston 
 I am Archith king of queens 
+=======
+i am Aditya from boston I love food 
+>>>>>>> 119a40a0740c65e28284cb25a4c0ca68155357c0
